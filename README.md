@@ -42,4 +42,4 @@ A busca é pesada: são bilhões de hashes. O tempo depende do número de núcle
 
 ## Contexto
 
-Exercício da graduação em Ciência da Computação (UniCEUB), sobre complexidade de busca exaustiva e paralelismo.
+Licença MIT. Exercício da graduação em Ciência da Computação (UniCEUB), sobre complexidade de busca exaustiva e paralelismo.
